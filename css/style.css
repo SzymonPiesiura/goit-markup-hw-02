@@ -117,3 +117,16 @@ ul {
   line-height: 1.2;
   color: #ffffff;
 }
+
+.button-portfolio {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 1.625;
+  background: #f5f4fa;
+}
+
+.button-portfolio:hover,
+.button-portfolio:focus {
+  background: #2196f3;
+}
