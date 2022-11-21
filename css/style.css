@@ -129,4 +129,5 @@ ul {
 .button-portfolio:hover,
 .button-portfolio:focus {
   background: #2196f3;
+  color: #ffffff;
 }
